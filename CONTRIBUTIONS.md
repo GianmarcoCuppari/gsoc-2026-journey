@@ -9,13 +9,14 @@ This repository contains a record of my contributions to the Julia ecosystem, us
 | Date       | Repository             | Issue/PR                | Type       | Status              | Notes |
 |------------|------------------------|-------------------------|------------|---------------------|-------|
 | 2025-09-16 | julia/LinearAlgebra.jl | PR [#1445](https://github.com/JuliaLang/LinearAlgebra.jl/pull/1445)<br>Fixes issue [#1438](https://github.com/JuliaLang/LinearAlgebra.jl/issues/1438) | Bugfix | 🔄 Open – in review | Fixed bug in function X, added unit tests |
+| 2025-10-4 | julia/julia | PR [#59744](https://github.com/JuliaLang/julia/pull/59744)<br>Fixes issue [#56752](https://github.com/JuliaLang/julia/issues/56752) | Documentation | 🔄 Open – in review | Fixed bug in function X, added unit tests |
 
 ---
 
 ## 📌 Goals
 - Contribute consistently to Julia and official packages.  
 - Document PRs, issues, and closed tickets.  
-- Prepare a solid project proposal for **GSoC 2026 (JuliaLang)**.  
+- Gain experience in open source and GitHub. 
 
 ---
 
